@@ -33,8 +33,7 @@
 - [Download](#Download)
 - [Usage](#Usage)
 - [Example](#example)
-- [Auto Restart](#restart)
-
+- [Auto Restart](#phoenixminerauto-restart)
 
 ## Features, requirements, and limitations
 
