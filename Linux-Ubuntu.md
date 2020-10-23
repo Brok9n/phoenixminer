@@ -56,4 +56,4 @@ ETH: 01/26/18-13:35:54 - New job from us2.ethermine.org:4444
 
 6. With default setting the AMD Radeon RX570‘s do about 22 Mh/s, give it a week to make sure things are stable and we’ll tweak them up to hopefully around 30 Mh/s.  I’ll give you another post once we make those changes.
 
-In the mean time, to get rid of that annoying error message, I just removed the -tt for now which is Target Temperature so PhoenixMiner stops trying to make calls to adjust fan speeds automatically.   However you really want to increase the fan speeds manually to keep the GPUs cooler.
+In the mean time, to get rid of that annoying error message, I just removed the -tt for now which is Target Temperature so PhoenixMiner stops trying to make calls to adjust fan speeds automatically.
