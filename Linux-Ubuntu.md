@@ -1,0 +1,1 @@
+Quick setup Claymore Ethereum mining on Ubuntu with AMD
