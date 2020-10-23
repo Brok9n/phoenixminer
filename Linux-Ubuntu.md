@@ -18,7 +18,7 @@ cd amdgpu-pro-17.50-511655/
 sudo ./amdgpu-pro-install -y --opencl=legacy
 ```
 
-Next we’ll install PhoenixMiner
+3. Next we’ll install PhoenixMiner
 
 ```
 cd ~/Downloads
@@ -34,7 +34,7 @@ tar -xvpzf ~/Downloads/PhoenixMiner_5.1c_Linux.zip
 chmod u+s PhoenixMiner
 ```
 
-The command everyone recommends using looks something like this
+4. The command everyone recommends using looks something like this
 
 ```
 ~/Phoenix/PhoenixMiner -epool us2.ethermine.org:4444 -ewal <wallet>.<worker> -epsw x -mode 1 -tt 68 -allpools 1
@@ -42,7 +42,7 @@ The command everyone recommends using looks something like this
 
 
 
-What happened is we got an error about miner doesn’t have root acecss
+5. What happened is we got an error about miner doesn’t have root acecss
 
 ```
 ETH - Total Speed: 44.209 Mh/s, Total Shares: 13, Rejected: 0, Time: 00:22
@@ -54,6 +54,6 @@ Failed to set new fan speed, check if miner has root access!
 ETH: 01/26/18-13:35:54 - New job from us2.ethermine.org:4444
 ```
 
-With default setting the AMD Radeon RX570‘s do about 22 Mh/s, give it a week to make sure things are stable and we’ll tweak them up to hopefully around 30 Mh/s.  I’ll give you another post once we make those changes.
+6. With default setting the AMD Radeon RX570‘s do about 22 Mh/s, give it a week to make sure things are stable and we’ll tweak them up to hopefully around 30 Mh/s.  I’ll give you another post once we make those changes.
 
-In the mean time, to get rid of that annoying error message, I just removed the -tt for now which is Target Temperature so PhoenixMiner stops trying to make calls to adjust fan speeds automatically.   However you really want to increase the fan speeds manually to keep the GPUs cooler. Check out this post, this is what I had done, near the bottom gives you the settings you’ll want to add to your miner.sh script to keep your RX570’s cool, Adjusting RX570 Fans Speed.
+In the mean time, to get rid of that annoying error message, I just removed the -tt for now which is Target Temperature so PhoenixMiner stops trying to make calls to adjust fan speeds automatically.   However you really want to increase the fan speeds manually to keep the GPUs cooler.
